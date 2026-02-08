@@ -1,5 +1,5 @@
 #include<Arduino.h>
-#include <Servo.h>
+#include <Servo.h>//下载servo库
 
 Servo myServo;
 const int servopin = 2;
